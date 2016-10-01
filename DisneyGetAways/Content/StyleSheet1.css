@@ -12,9 +12,19 @@
     margin-bottom: 0px;
 }
 .page-header {
-    text-align:center;
-    background-color: #E8D6CF;
+    text-align: center;
+    background-color: lightgrey;
     margin: 0px;
-    padding-top:5px;
-
+    padding-top: 5px;
+}
+h1 h2 {
+    margin:0px;
+    padding:0px;
+}
+#googleFont {
+    font-family: 'Damion', cursive;
+    font-size: 60px;
+}
+.andysHouse {
+  width: 5000px;
 }
