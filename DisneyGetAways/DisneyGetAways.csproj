@@ -95,6 +95,15 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Images\AndysHouse.png" />
+    <Content Include="Images\andysRoom.jpg" />
+    <Content Include="Images\clawMachine.jpg" />
+    <Content Include="Images\disneyLogo.jpg" />
+    <Content Include="Images\incrediblesLogo.jpg" />
+    <Content Include="Images\pizzaPlanet.jpg" />
+    <Content Include="Images\pizzaPlanetTruck.jpg" />
+    <Content Include="Images\toyStoryCharacters.jpeg" />
+    <Content Include="Images\toyStoryMap.jpg" />
+    <Content Include="Images\toyStoryWall.jpg" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>

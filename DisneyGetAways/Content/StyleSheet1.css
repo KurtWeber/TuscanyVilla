@@ -1,5 +1,5 @@
 ﻿body {
-
+    margin: 0px 20px;
 }
 .navbar .navbar-nav {
     display: inline-block;
@@ -13,18 +13,114 @@
 }
 .page-header {
     text-align: center;
-    background-color: lightgrey;
+    background-color: dodgerblue;
     margin: 0px;
     padding-top: 5px;
 }
 h1 h2 {
+    text-align: center;
     margin:0px;
     padding:0px;
 }
 #googleFont {
     font-family: 'Damion', cursive;
     font-size: 60px;
+    
 }
-.andysHouse {
-  width: 1000px;
+#andysBack {
+    background-image: url('../Images/AndysHouse.png');
+    background-size: cover;
+    height: 300px;
+    border: 2px solid white;
+    
+}
+#andysMap {
+    background-position: center;
+    background-image: url('../Images/toyStoryMap.jpg');
+    background-size: cover;
+    height: 300px;
+    border: 2px solid white;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+}
+#toyStoryWall {
+    background-position: center;
+    background-image: url('../Images/toyStoryWall.jpg');
+    background-size: cover;
+    height: 300px;
+    border: 2px solid white;
+    font-size: 35px;
+    text-align: center;
+    padding-top: 30px;
+    color: black;
+}
+#andysRoom {
+    background-position: center;
+    background-image: url('../Images/andysRoom.jpg');
+    background-size: cover;
+    height: 300px;
+    border: 2px solid white;
+}
+#pizzaPlanet {
+    background-position: center;
+    background-image: url('../Images/pizzaPlanet.jpg');
+    background-size: cover;
+    height: 300px;
+    border: 2px solid white;
+}
+#pizzaPlanetTruck {
+    background-position: center;
+    background-image: url('../Images/pizzaPlanetTruck.jpg');
+    background-size: cover;
+    height: 300px;
+    border: 2px solid white;
+}
+#clawMachine {
+    background-position: center;
+    background-image: url('../Images/clawMachine.jpg');
+    background-size: cover;
+    height: 300px;
+    border: 2px solid white;
+}
+#incrediblesLogo {
+    background-position: center;
+    background-image: url('../Images/incrediblesLogo.jpg');
+    background-size: cover;
+    height: 300px;
+    border: 2px solid white;
+}
+#disneyLogo {
+    background-position: center;
+    background-image: url('../Images/disneyLogo.jpg');
+    background-size: cover;
+    height: 300px;
+    border: 2px solid white;
+    font-size: 35px;
+    text-align: center;
+    padding-top: 30px;
+    color: white;
+}
+#toyStoryCharacters {
+    background-position: center;
+    background-image: url('../Images/toyStoryCharacters.jpeg');
+    background-size: cover;
+    height: 300px;
+    border: 2px solid white;
+}
+.row {
+    margin: 0px -2px;
+}
+.footer {
+    background-color: dodgerblue;
+    padding-top: 10px;
+    line-height: 5px;
+}
+img#smallDisneyLogo {
+    width: 5%;
+    margin: 5px -15px;
+    padding: 0px 0px;
+     
+    
 }
