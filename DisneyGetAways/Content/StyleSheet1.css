@@ -1,9 +1,10 @@
 ﻿body {
     margin: 0px 20px;
 }
+
 .navbar .navbar-nav {
     display: inline-block;
-    float: none;
+    float: none;   
 }
 .navbar .navbar-collapse {
     text-align: center;
@@ -117,10 +118,31 @@ h1 h2 {
     padding-top: 10px;
     line-height: 5px;
 }
-img#smallDisneyLogo {
-    width: 5%;
-    margin: 5px -15px;
-    padding: 0px 0px;
-     
+#upperLogoLeft {
+    width: 90px;
+    margin-left: -15px;
+    /*float: left;*/
+    padding-top: 3px;
+    margin-right: 0px;
+}
+#phoneRight {
+    float: right;
+    margin-top: 20px;
+}
+div.container {
+    margin-left: 80px;
+    margin-top: 5px;
+}
+#lowerlogoRight {
+    width: 90px;
+    margin-left: -95px;
+    margin-top: -60px;
+    padding: 0px;
+}
+#socialMedia {
+    float: right;
+    margin-top: -60px;
+    padding-right:  90px;
     
+      
 }
